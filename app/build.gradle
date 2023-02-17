@@ -31,7 +31,7 @@ dependencies {
 
     implementation 'com.beust:klaxon:5.6'
 
-    implementation 'com.github.twitch4j:twitch4j:1.13.0'
+    implementation 'com.github.twitch4j:twitch4j:1.14.0'
 }
 
 application {
